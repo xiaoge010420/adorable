@@ -1,4 +1,4 @@
-name: Adorable CI/CD
+name: Adorable Email Sender
 on:
   pull_request:
     branches:

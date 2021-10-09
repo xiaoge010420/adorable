@@ -1,0 +1,17 @@
+name: Adorable Discord Sender
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+jobs:
+  send-message:
+    name: Send message to discord
+    runs-on: ubuntu-latest
+    steps:
+      - uses: sebastianpopp/discord-action@v1.0
+        with:
+          webhook: ${{ secrets.DISCORD_WEBHOOK }}
+          message: ${{ github.repository }} 有新的动态~/ has been new activity~

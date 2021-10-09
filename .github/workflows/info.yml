@@ -1,10 +1,10 @@
-name: Adorable Dumps
+name: Adorable Dump Info
 on:
   push:
     branches:
       - master
 jobs:
-  base-info:
+  info:
       runs-on: ubuntu-latest
       steps:
         - name: Dump GitHub context
