@@ -1,4 +1,4 @@
-name: Github Actions Dump
+name: Adorable Dumps
 on:
   push:
     branches:
