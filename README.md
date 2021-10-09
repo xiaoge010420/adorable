@@ -6,17 +6,14 @@
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-ff69b4)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ![Repo Total Size](https://img.shields.io/github/repo-size/ziocoo/adorable?color=ff69b4&label=Total%20Size)
 ![Contributors](https://img.shields.io/github/contributors/ziocoo/adorable?color=ff69b4&label=Contributers)
-
 [![Discord](https://img.shields.io/discord/895966555224027196)](https://discord.gg/k2vdGTDRPJ)
-[![Adorable CI/CD](https://github.com/ziocoo/adorable/actions/workflows/ci-cd.yml/badge.svg?branch=master&event=pull_request)](https://github.com/ziocoo/adorable/actions/workflows/ci-cd.yml)
-[![Adorable Dumps](https://github.com/ziocoo/adorable/actions/workflows/base-info.yml/badge.svg?branch=master&event=push)](https://github.com/ziocoo/adorable/actions/workflows/base-info.yml)
 
 ![GitHub watchers](https://img.shields.io/github/watchers/ziocoo/adorable?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ziocoo/adorable?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/ziocoo/adorable?style=social)
 </div>
 
-# 可爱的 Adorable
+# 可爱的 Adorable :star::star::star::fire::fire::fire:
 
 ___面向可爱的男孩子们:heart_eyes:的公开仓库，一起来女装吧~:two_hearts::two_hearts::two_hearts:___
 
@@ -25,7 +22,8 @@ two_hearts:___
 
 # 须知 Instruction
 
-
+> 本仓库并不要求你贡献任何代码，没有任何编程技能都可以参加，唯一要求是准备好至少一张女装照片~:yum::yum::yum:
+> 
 
 # 许可声明 License
 
