@@ -18,9 +18,9 @@
 :fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:
 :fire::fire::fire::fire::fire::fire::rocket:
 
-___面向可爱的男孩子们:heart_eyes:的公开仓库，一起来女装吧~:two_hearts::two_hearts::two_hearts:___
+___面向可爱的男孩子们:heart_eyes:的公开仓库，一起来女装吧~ :two_hearts::two_hearts::two_hearts:___
 
-___A public repository for adorable boys :heart_eyes:, let's come to the dress together~:two_hearts::two_hearts:
+___A public repository for adorable boys :heart_eyes:, let's come to the dress together~ :two_hearts::two_hearts:
 :two_hearts:___
 
 ## :loudspeaker: 须知 Instruction
