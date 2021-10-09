@@ -4,11 +4,12 @@
 
 ---
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-ff69b4)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-[![Adorable CI/CD](https://github.com/ziocoo/adorable/actions/workflows/ci-cd.yml/badge.svg?branch=master)](https://github.com/ziocoo/adorable/actions/workflows/ci-cd.yml)
 ![Repo Total Size](https://img.shields.io/github/repo-size/ziocoo/adorable?color=ff69b4&label=Total%20Size)
 ![Contributors](https://img.shields.io/github/contributors/ziocoo/adorable?color=ff69b4&label=Contributers)
 
 [![Discord](https://img.shields.io/discord/895966555224027196)](https://discord.gg/k2vdGTDRPJ)
+[![Adorable CI/CD](https://github.com/ziocoo/adorable/actions/workflows/ci-cd.yml/badge.svg?branch=master&event=pull_request)](https://github.com/ziocoo/adorable/actions/workflows/ci-cd.yml)
+[![Adorable Dumps](https://github.com/ziocoo/adorable/actions/workflows/base-info.yml/badge.svg?branch=master&event=push)](https://github.com/ziocoo/adorable/actions/workflows/base-info.yml)
 
 ![GitHub watchers](https://img.shields.io/github/watchers/ziocoo/adorable?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ziocoo/adorable?style=social)
