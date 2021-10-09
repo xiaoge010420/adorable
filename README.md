@@ -13,7 +13,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/ziocoo/adorable?style=social)
 </div>
 
-# :cupid: 可爱的 Adorable :star::fire::fire::fire::fire::fire: :rocket:
+# :cupid: 可爱的 Adorable
+:fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire: :rocket:
 
 ___面向可爱的男孩子们:heart_eyes:的公开仓库，一起来女装吧~:two_hearts::two_hearts::two_hearts:___
 
