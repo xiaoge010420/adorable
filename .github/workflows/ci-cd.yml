@@ -1,56 +1,23 @@
 name: Adorable CI/CD
 on:
-  push:
-    branches:
-      - master
-    paths:
-      - boys/**
   pull_request:
     branches:
       - master
     paths:
       - boys/**
 jobs:
-  base-info:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Dump GitHub context
-        env:
-          GITHUB_CONTEXT: ${{ toJSON(github) }}
-        run: echo "$GITHUB_CONTEXT"
-      - name: Dump job context
-        env:
-          JOB_CONTEXT: ${{ toJSON(job) }}
-        run: echo "$JOB_CONTEXT"
-      - name: Dump steps context
-        env:
-          STEPS_CONTEXT: ${{ toJSON(steps) }}
-        run: echo "$STEPS_CONTEXT"
-      - name: Dump runner context
-        env:
-          RUNNER_CONTEXT: ${{ toJSON(runner) }}
-        run: echo "$RUNNER_CONTEXT"
-      - name: Dump strategy context
-        env:
-          STRATEGY_CONTEXT: ${{ toJSON(strategy) }}
-        run: echo "$STRATEGY_CONTEXT"
-      - name: Dump matrix context
-        env:
-          MATRIX_CONTEXT: ${{ toJSON(matrix) }}
-        run: echo "$MATRIX_CONTEXT"
   send-email:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2.3.4
-      - if: github.event_name == "pull_request"
-        run: |
+      - run: |
           echo PR_NUMBER=$(echo $GITHUB_REF | awk 'BEGIN { FS = "/" } ; { print $3 }') >> $GITHUB_ENV
           echo PR_TITLE=$(jq --raw-output .pull_request.title "$GITHUB_EVENT_PATH") >> $GITHUB_ENV
           echo PR_URL=$(jq --raw-output .pull_request.html_url "$GITHUB_EVENT_PATH") >> $GITHUB_ENV
           echo PR_USER=$(jq --raw-output .pull_request.user.login "$GITHUB_EVENT_PATH") >> $GITHUB_ENV
       - run: printenv
       - name: Send email when pull request
-        if: ${{ success() }} && github.event_name == "pull_request"
+        if: ${{ success() }}
         uses: dawidd6/action-send-mail@v3.5.0
         with:
           server_address: smtp.163.com
