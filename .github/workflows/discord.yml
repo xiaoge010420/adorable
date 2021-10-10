@@ -11,7 +11,7 @@ jobs:
     name: Send message to discord
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@2.3.4
+      - uses: actions/checkout@v2.3.4
       - run: echo "$GITHUB_EVENT_PATH"
       - uses: sebastianpopp/discord-action@v1.0
         with:
