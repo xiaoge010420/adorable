@@ -20,14 +20,14 @@
 
 ___面向可爱的男孩子们:heart_eyes:的公开仓库，一起来女装吧~ :two_hearts::two_hearts::two_hearts:___
 
-___A public repository for adorable boys :heart_eyes:, let's come to the dress together~ :two_hearts::two_hearts:
+___A public repository for adorable boys :heart_eyes:, let's come to the cross-dressing together~ :two_hearts::two_hearts:
 :two_hearts:___
 
 ## :loudspeaker: 须知 Instruction
 
 > 本仓库并不要求你贡献任何代码，没有任何编程技能都可以参加，唯一要求是准备好至少一张女装照片~ :yum::yum::yum:
 > This repository does not require you to contribute any code. You can participate without any programming skills.
-> The only requirement is to prepare at least one photo of dress ~ :yum::yum::yum:
+> The only requirement is to prepare at least one photo of cross-dressing ~ :yum::yum::yum:
 
 ## :lock: 许可声明 License
 
