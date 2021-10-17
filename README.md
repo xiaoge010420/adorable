@@ -32,17 +32,17 @@ two_hearts:
 > This repository does not require you to contribute any code. You can participate without any programming skills.
 > The only requirement is to prepare at least one photo of cross-dressing ~ :yum::yum::yum:
 
-- 关于图片上传规则 About image upload rules
-  > - 禁止盗图和未经授权转载他人图片！！！
+- 关于照片上传规则 About photo upload rules
+  > - 禁止盗图和未经授权擅自转载他人照片！！！
   > - 请务必在仓库的`boys`目录下创建和你`github用户名`***相同***的文件夹，所有的图片和描述文件都放在你自己创建的文件夹中，如果搜索不到你的`github用户名`，会被`关闭拉取请求`（Close Pull Request）。
   > - 文件夹名字中不允许出现任何非`字母、数字`的其他任何字符，长度不能超过`39位`，大小写不限（没错，这就是github的用户名规范:ghost:）。
   > - 如果需要在你的文件夹内创建描述文件，请务必使用 [Markdown](https://zh.wikipedia.org/zh-hans/Markdown) 语法来编写。
-  > - 图片请尽量压缩大小，并删除 [Exif](https://zh.wikipedia.org/zh-hans/Exif) 信息，图片质量过低的`Pull Request`会被`Close`！
-  > - The theft of pictures and unauthorized reprinting of other people’s pictures are prohibited! ! !
-  > - Be sure to create a folder with the ***same*** name as your `github username` in the `boys` directory of the warehouse. All pictures and description files are placed in the folder you created. If your GitHub username cannot be searched, it will be `Close Pull Request`.
+  > - 照片请尽量压缩大小，并删除 [Exif](https://zh.wikipedia.org/zh-hans/Exif) 信息，照片质量过低的`Pull Request`会被`Close`！
+  > - The theft of photos and unauthorized reprinting of other people’s photos are prohibited! ! !
+  > - Be sure to create a folder with the ***same*** name as your `github username` in the `boys` directory of the warehouse. All photos and description files are placed in the folder you created. If your GitHub username cannot be searched, it will be `Close Pull Request`.
   > - Any characters other than `letters or numbers` are not allowed in the folder name, the length cannot exceed `39 characters`, and the case is not limited (yes, this is the username specification of GitHub:ghost:).
   > - If you need to create a description file in your folder, be sure to use the [Markdown](https://en.wikipedia.org/wiki/Markdown) syntax to write it.
-  > - Please compress the size of the picture as much as possible and delete the [Exif](https://en.wikipedia.org/wiki/Exif) information. `Pull Request` with low picture quality will be `Close`!
+  > - Please compress the size of the photo as much as possible and delete the [Exif](https://en.wikipedia.org/wiki/Exif) information. `Pull Request` with low photo quality will be `Close`!
 
 - 关于如何删除`Exif`
   > - 请点击右边按钮查看如何删除~:stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye:
@@ -64,4 +64,4 @@ two_hearts:
     </div>
 </div>
 
-## 贡献 Contributing
+## :ribbon: 贡献 Contributing
