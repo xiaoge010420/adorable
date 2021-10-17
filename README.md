@@ -1,3 +1,4 @@
+<!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
 	<img src="./etc/logo.png" alt="logo" width="160"><br/>
     <img src="./etc/title.svg" alt="title" width="140">
@@ -38,14 +39,14 @@ two_hearts:
   > - 如果需要在你的文件夹内创建描述文件，请务必使用 [Markdown](https://zh.wikipedia.org/zh-hans/Markdown) 语法来编写。
   > - 图片请尽量压缩大小，并删除 [Exif](https://zh.wikipedia.org/zh-hans/Exif) 信息，图片质量过低的`Pull Request`会被`Close`！
   > - The theft of pictures and unauthorized reprinting of other people’s pictures are prohibited! ! !
-  > - Be sure to create a folder with the ***same*** name as your `github username` in the `boys` directory of the warehouse. All pictures and description files are placed in the folder you created. If your github user name cannot be searched, it will be `Close Pull Request`.
-  > - Any characters other than `letters or numbers` are not allowed in the folder name, the length cannot exceed `39 characters`, and the case is not limited (yes, this is the user name specification of github:ghost:).
+  > - Be sure to create a folder with the ***same*** name as your `github username` in the `boys` directory of the warehouse. All pictures and description files are placed in the folder you created. If your GitHub username cannot be searched, it will be `Close Pull Request`.
+  > - Any characters other than `letters or numbers` are not allowed in the folder name, the length cannot exceed `39 characters`, and the case is not limited (yes, this is the username specification of GitHub:ghost:).
   > - If you need to create a description file in your folder, be sure to use the [Markdown](https://en.wikipedia.org/wiki/Markdown) syntax to write it.
   > - Please compress the size of the picture as much as possible and delete the [Exif](https://en.wikipedia.org/wiki/Exif) information. `Pull Request` with low picture quality will be `Close`!
 
 - 关于如何删除`Exif`
   > - 请点击右边按钮查看如何删除~:stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye:
-<a href="./etc/DELETE-Exif.md"><img src="./etc/del-btn.png" align="right" style="right: 120px" width="52" alt="delete button"></a>
+      <a href="./etc/DELETE-Exif.md"><img src="./etc/del-btn.png" align="right" width="32" alt="delete button"></a>
   > - Please click the button on the right to see how to delete~ :stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye:
 
 ## :lock: 许可声明 License
