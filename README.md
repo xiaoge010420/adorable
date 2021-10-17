@@ -45,13 +45,8 @@ two_hearts:
 
 - 关于如何删除`Exif`
   > - 请点击右边按钮查看如何删除~:stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye:
+  > <a href="./etc/DELETE-Exif.md" align="right"><img src="./etc/del-btn.png" width="52" alt="delete button"></a>
   > - Please click the button on the right to see how to delete~ :stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye:
-
-<div style="margin-top: -72px; position: absolute; float: right; right: 199px">
-  <a href="./etc/DELETE-Exif.md">
-    <img src="./etc/del-btn.png" width="52" alt="delete button">
-  </a>
-</div>
 
 ## :lock: 许可声明 License
 
