@@ -51,7 +51,8 @@ two_hearts:
 
 ## :lock: 许可声明 License
 
-<img src="./etc/ccheart_red.svg" align="left" width="52" alt="CC" style="left: 120px">
+<img src="./etc/ccheart_red.svg" align="left" width="52" alt="CC">
+
 <div align="center">
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
 <img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png"/></a><br/>
