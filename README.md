@@ -60,4 +60,3 @@ two_hearts:
 </div>
 
 ## :ribbon: 贡献 Contributing
-1
